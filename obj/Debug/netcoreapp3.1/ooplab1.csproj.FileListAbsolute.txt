@@ -1,0 +1,13 @@
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.exe
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.deps.json
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.runtimeconfig.json
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.runtimeconfig.dev.json
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.dll
+C:\Users\ssova\source\repos\ooplab1\bin\Debug\netcoreapp3.1\ooplab1.pdb
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.csprojAssemblyReference.cache
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.csproj.CoreCompileInputs.cache
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.AssemblyInfoInputs.cache
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.AssemblyInfo.cs
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.dll
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.pdb
+C:\Users\ssova\source\repos\ooplab1\obj\Debug\netcoreapp3.1\ooplab1.genruntimeconfig.cache
